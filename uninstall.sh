@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 if [ -z "$HOME_ENCRYPTION_UTIL_INSTALL_PREFIX" ]; then
     export HOME_ENCRYPTION_UTIL_INSTALL_PREFIX="/usr"
